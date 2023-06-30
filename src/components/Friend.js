@@ -6,6 +6,7 @@ import Button from "./Button";
  * @prop {Object} selectedFriend current selectedFriend object
  * @prop {Object} onSelection update the selectedFriend state with selected friend object and open up / close the split form.
  * @returns {JSX.Element}
+ * @author Anik Paul
  */
 export default function Friend({ friend, selectedFriend, onSelection }) {
   const isSelected = friend.id === selectedFriend?.id;

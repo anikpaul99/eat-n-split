@@ -5,6 +5,7 @@ import Button from "./Button";
  * Component to add friend
  * @prop {Object} onAddFriend the funtion to add friend
  * @returns {JSX.Element}
+ * @author Anik Paul
  */
 export default function FormAddFriend({ onAddFriend }) {
   const [name, setName] = useState("");

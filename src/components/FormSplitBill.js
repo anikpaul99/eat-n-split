@@ -5,6 +5,7 @@ import Button from "./Button";
  * Split form component with selected friends info
  * @prop {Object} selectedFriend the selected friends object
  * @returns {JSX.Element}
+ * @author Anik Paul
  */
 export default function FormSplitBill({ selectedFriend, onSplitBill }) {
   const [bill, setBill] = useState("");
