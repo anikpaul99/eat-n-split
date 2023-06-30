@@ -195,6 +195,11 @@ function FormAddFriend({ onAddFriend }) {
   );
 }
 
+/**
+ * Split form with selected friends info
+ * @prop {Object} selectedFriend the selected friends object
+ * @returns {JSX.Element}
+ */
 function FormSplitBill({ selectedFriend }) {
   return (
     <form className="form-split-bill">
