@@ -16,6 +16,12 @@ Suppose you and a friend go out for dinner and the total bill is $100. If you pa
 
 1. **Application Screenshot**: ![Eat-n-Split](screenshots/eat-n-split%20home.PNG)
 
+### 🎥 Video Demo
+
+Watch a short walkthrough of the app in action:
+
+[▶️ Eat-n-Split Demo](screenshots/eat%20n%20split%20demo.mp4)
+
 ## Technology Stack
 
 The project is built using the following technologies:
